@@ -33,3 +33,12 @@ Sockets allow us to establish a TCP/IP connection between 2 programs. There is n
 no restrictions on the location of the programs they can be located remotely or
 of course on the same computer (localhost 127.0.0.1). We just had to identify the connection
 TCP/IP.
+![image](https://user-images.githubusercontent.com/60547288/159450879-b83133f9-8032-4f06-9eaa-7010aeaab318.png)
+
+![image](https://user-images.githubusercontent.com/60547288/159450961-251a9e91-3746-4c14-a572-23d3f8e16527.png)
+
+![image](https://user-images.githubusercontent.com/60547288/159451030-39d553f2-539d-47e5-a641-453c4d57dfa7.png)
+
+
+
+
